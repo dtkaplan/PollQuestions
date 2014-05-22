@@ -1,0 +1,17 @@
+---
+output: html_document
+---
+
+**What software do you teach statistics with now?**  
+*Choose all that apply.*
+
+
+a. R
+#. Spreadsheets
+#. Traditional professional software, e.g. SAS, SPSS, Stata
+#. Statistics education software, e.g. JMP, Minitab
+#. Exploratory or dynamic software, e.g. Fathom, Tinkerplots
+#. Math-oriented software, e.g. Mathematica, SAGE, Matlab
+#. Graphing calculator software
+#. Students get to choose
+#. I don't use software in my class

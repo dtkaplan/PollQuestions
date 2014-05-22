@@ -1,0 +1,17 @@
+---
+output: html_document
+---
+
+**Do you use R packages in your teaching?**  
+*Choose all that apply.*
+
+
+a. No, just "base R".  
+#. What are packages?
+#. Only peripherally or occasionally.
+#. Central to teaching at least one course.
+#. I get non-CRAN packages.
+#. I write packages
+#. Just Hadley Wickham's packages (`ggplot2`,`dplyr`,etc.)
+#. RStudio UI packages (`manipulate`, `shiny`)
+#. Document support packages (e.g. `knitr`, `rmarkdown`)

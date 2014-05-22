@@ -1,0 +1,19 @@
+---
+output: html_document
+---
+
+**Are there barriers to your teaching with R?**  
+*Choose all that apply.*
+
+
+a. My lack of knowledge/experience with R
+#. My colleagues lack of knowledge/experience with R
+#. R is too hard for my students
+#. My students need a menu-based system
+#. Excel is preferred for non-statistical reasons 
+#. R doesn't do the statistics I need
+#. Lack of time to get up to speed
+#. Concern about possible negative student response/evaluations.
+#. Change is hard!
+#. No substantial barriers
+

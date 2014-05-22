@@ -1,0 +1,18 @@
+---
+output: html_document
+---
+
+**In what courses would you like to use R?**  
+*Choose all that apply.*
+
+
+a. High-school statistics, e.g. AP statistics
+#. Introductory statistics for undergrads (no Calculus)
+#. Introductory statistics for undergrads (Calc pre-req)
+#. Second statistics course, e.g. regression
+#. Probability
+#. Mathematical statistics
+#. Field-specific methods course, e.g. Res. Methods in Psych.
+#. Calculus
+#. Linear algebra, Diff Eq, and other upper-level math
+#. Other ...

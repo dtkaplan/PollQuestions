@@ -1,0 +1,13 @@
+---
+output: html_document
+---
+
+**What's your relationship to teaching with R?**  
+*Choose all that apply.*
+
+
+a. Disinterested observer
+#. Skeptic
+#. Shopping for software
+#. Agnostic ("They're all the same.")
+#. True Believer
